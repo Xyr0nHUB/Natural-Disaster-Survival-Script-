@@ -1,5 +1,5 @@
-Hello to all of you friends, I am just learning exploting, this is the first script I made. I made the script open source I hope this will help you
+# Hello to all of you friends, I am just learning exploting, this is the first script I made. I made the script open source I hope this will help you
 
-Script here= 
+# •Script here= 
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Xyr0nHUB/Natural-Disaster-Survival-Script-/main/Script'))()
+ # loadstring(game:HttpGet('https://raw.githubusercontent.com/Xyr0nHUB/Natural-Disaster-Survival-Script-/main/Script'))()
