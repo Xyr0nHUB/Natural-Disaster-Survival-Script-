@@ -2,4 +2,4 @@
 
 # •Script here= 
 
- # loadstring(game:HttpGet('https://raw.githubusercontent.com/Xyr0nHUB/Natural-Disaster-Survival-Script-/main/Script'))()
+ # loadstring(game:HttpGet('https://raw.githubusercontent.com/Xyr0nHUB/Roblox-Natural-Disaster-Survival-Script/main/Script(OpenSource)'))()
